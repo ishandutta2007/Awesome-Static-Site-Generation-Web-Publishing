@@ -98,7 +98,7 @@ Decoupling the editorial writing interface from static presentation completely e
 
 ## 🌟 Open-Source GitHub Projects
 
-All open-source tools below are organized by primary functional archetype and **sorted in descending order by GitHub star count** within each tier.
+All open-source tools below are organized by primary functional archetype and **sorted in descending order by GitHub Stars_Count** within each tier.
 
 ### 🔥 Full-Stack Web Frameworks & Static Enablers
 *Hybrid and full-stack frameworks offering best-in-class static site generation (SSG) and pre-rendering modes.*
@@ -183,8 +183,8 @@ Contributions are warmly welcomed! 🌟 Follow these steps:
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`.
 3. 📝 **Add/Update entries** in `README.md` following the established formatting rules:
    - Official tool name and home URL.
-   - For open-source projects, include the social star badge linking to `/stargazers`.
-   - Maintain sorting by GitHub stars (descending) in each category.
+   - For open-source projects, include the social Stars_Badge linking to `/stargazers`.
+   - Maintain sorting by GitHub_Stars (descending) in each category.
    - For SaaS tools, supply precise starting pricing and free tier/trial limits.
 4. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
